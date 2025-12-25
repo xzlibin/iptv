@@ -8,27 +8,27 @@ http://113.90.245.216:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://113.90.245.216:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.90.245.216:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://183.237.95.108:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.211.62.180:8000/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://106.46.114.147:8011/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://113.90.245.216:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
-https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+http://113.90.245.216:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://58.220.219.14:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.90.245.216:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://58.220.219.14:9901/tsfile/live/0009_1.m3u8
+http://113.90.245.216:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="📺央视频道",CCTV-10
-http://182.37.169.94:352/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.90.245.216:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://183.237.95.108:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
+https://play.kankanlive.com/live/1698423476198918.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://58.220.219.14:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.90.245.216:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
-https://play.kankanlive.com/live/1698423543275916.m3u8
+http://120.211.62.180:8000/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央视频道",CCTV-14
-http://42.225.117.174:11199/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.90.245.216:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
 http://nas.suntao.online:35455/gaoma/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
@@ -91,6 +91,7 @@ http://218.58.136.82:352/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0#
 https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
 http://106.46.114.147:8011/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+
 
 
 
